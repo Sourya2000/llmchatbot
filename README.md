@@ -1,4 +1,4 @@
-# A simple conversational AI chatbot using Microsoft Dialogpt API and FastAPI as backend
+# A simple conversational AI chatbot using Microsoft Dialogpt API ,React and FastAPI as backend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
